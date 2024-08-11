@@ -126,11 +126,8 @@
   <img src="https://komarev.com/ghpvc/?username=Kaushal14200&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+![snake gif](https://github.com/Kaushal14200/Kaushal14200/blob/output/github-contribution-grid-snake.gif)
 
 
 
