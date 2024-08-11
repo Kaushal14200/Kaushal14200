@@ -147,9 +147,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kaushal14200&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kaushal14200/Kaushal14200/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Kaushal14200/Kaushal14200/output/github-contribution-grid-snake-dark.svg)
 
 
 
