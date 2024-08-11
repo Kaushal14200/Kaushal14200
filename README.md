@@ -1,11 +1,16 @@
+<h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
+
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Python 
+- 📫 How to reach me: kaushal142002pp@gmail.com
+- 😄 My website: https://www.linkedin.com/in/kaushal-kumar-656214244/
+- ⚡ Fun fact: I'm comming to teen
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaushal14200&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-### About Me:  
-<!--
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
--->
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-       
+
 
  ### Connect with me:
 <div id="badges">
