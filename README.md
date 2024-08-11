@@ -148,7 +148,7 @@
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kaushal14200/Kaushal14200/output/github-contribution-grid-snake.svg" />
 </p>
 
 
